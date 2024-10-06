@@ -1,2 +1,2 @@
 # PythonforDataAnalytics
-Learning Python of Data Analytics 
+Learning Python of Data Analytics
