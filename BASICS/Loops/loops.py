@@ -4,3 +4,6 @@ for i in range (1,51):
     if i%2 == 0:
         sum +=i
     print(sum)
+# Print a string 
+a = "Sagar is Gentlemen"
+print (a) 
